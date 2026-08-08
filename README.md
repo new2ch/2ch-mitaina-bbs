@@ -18,3 +18,6 @@
 
 
 ## スクショ
+<img width="1440" height="787" alt="SCR-20260808-lzae" src="https://github.com/user-attachments/assets/ff02cc69-d446-4879-9cfa-ec7be0dda6dc" />
+
+スクショでは背景は白ですけど、back.pngをフォルダ内に設置してればレンガの背景になります。
